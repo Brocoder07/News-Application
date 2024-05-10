@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647483910742",
+    "project_id": "newzapp-5e94b",
+    "storage_bucket": "newzapp-5e94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647483910742:android:c118445ecb7b97c238a9f7",
+        "android_client_info": {
+          "package_name": "com.example.newzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6POV_kkfSheMCnPijfk-qTWPv7taDio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
